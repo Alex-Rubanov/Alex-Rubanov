@@ -31,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-rubanov&show_icons=true&locale=en&layout=compact" alt="alex-rubanov" /></p>
 
-
+![Snake animation](https://github.com/Alex-Rubanov/Alex-Rubanov/blob/output/github-contribution-grid-snake.svg)
