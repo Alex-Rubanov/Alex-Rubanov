@@ -35,13 +35,15 @@
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-rubanov&show_icons=true&locale=en&layout=compact" alt="alex-rubanov" />
+</p>
 <p align="left" >
     <a href="https://www.codewars.com/users/Alex-Rubanov" target="_blank">
       <img width='400' src="https://github.r2v.ch/codewars?user=Alex-Rubanov" />
     </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-rubanov&show_icons=true&locale=en&layout=compact" alt="alex-rubanov" /></p>
+
 
 ![snake svg](https://github.com/Alex-Rubanov/Alex-Rubanov/blob/output/github-contribution-grid-snake.svg)
 
