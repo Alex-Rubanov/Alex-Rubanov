@@ -1,7 +1,7 @@
 ### `<h1>Hello World</h1>` 
 
 
-<h1>I'am Alex 👋</h2>
+<h1>I'm Alex 👋</h2>
 
 
 <h3 align="left">Passionate Frontend Developer with a creative mindset and a love for crafting visually appealing and user-friendly web experiences. Enthusiastic about collaborating with cross-functional teams to bring designs to life and create seamless, responsive websites. Dedicated to continuously learning and enhancing skills to provide innovative solutions for exceptional user experiences.</h3>
@@ -9,9 +9,11 @@
 <br/>
 
 
-<img align="right" alt="Coding" width="400" src='https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif' >
+<div>
+  <img align="right" alt="Coding" width="400" src='https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif' >
+</div>
 <br/>
-
+<br/>
 
 
 - 🔭 I’m currently working on  **Ecommerce project**
