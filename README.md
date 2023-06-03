@@ -25,7 +25,7 @@
 - ⚡ Fun fact - **Why do programmers prefer dark mode? Because light attracts bugs!**
 - ☺️	Random facts about me -  **👨 ['english', 'polish', 'russian'].map(language => speak(language)) and I like Chinese Food 🥢**
 
-[![Tech I use](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,mongodb,git,scss,bootstrap,tailwind,materialui,figma&theme=dark)](https://skillicons.dev)
+[![Tech I use](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,mongodb,git,scss,bootstrap,tailwind,materialui,figma&theme=dark)](https://github.com/Alex-Rubanov)
 
 <p>
   <a href="https://mail.google.com/mail/u/0/?source=mailto&to=rubanovv.alex@gmail.com&fs=1&tf=cm">
