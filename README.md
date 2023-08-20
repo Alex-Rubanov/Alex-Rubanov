@@ -16,7 +16,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on  **Ecommerce project**
+- 🔭 I’m currently working on  **Social media app**
 
 - 👯 I’m looking to collaborate on/with  **creative and interesting projects/people**
 
