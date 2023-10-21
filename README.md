@@ -16,7 +16,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on  **Social media app**
+- 🔭 I’m currently working on  **Social media app project**
 
 - 👯 I’m looking to collaborate on/with  **creative and interesting projects/people**
 
