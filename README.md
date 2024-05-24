@@ -23,7 +23,7 @@
 - 📫 How to reach me  **rubanovv.alex@gmail.com**
 
 - ⚡ Fun fact - **Why do programmers prefer dark mode? Because light attracts bugs!**
-- ☺️	Random facts about me -  **👨 ['english', 'polish', 'russian'].map(language => speak(language)) and I like Chinese Food 🥢**
+- ☺️	Random facts about me -  **👨 ['english', 'polish', 'russian'].forEach(language => speak(language)) and I like Chinese Food 🥢**
 
 [![Tech I use](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,mongodb,git,scss,bootstrap,tailwind,materialui,figma&theme=dark)](https://github.com/Alex-Rubanov)
 
