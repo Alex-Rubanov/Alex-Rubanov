@@ -16,7 +16,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on  **Social media app project**
+- 🔭 I’m currently working at  **Nobl9 startup**
 
 - 👯 I’m looking to collaborate on/with  **creative and interesting projects/people**
 
@@ -25,7 +25,7 @@
 - ⚡ Fun fact - **Why do programmers prefer dark mode? Because light attracts bugs!**
 - ☺️	Random facts about me -  **👨 ['english', 'polish', 'russian'].forEach(language => speak(language)) and I like Chinese Food 🥢**
 
-[![Tech I use](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,mongodb,git,scss,bootstrap,tailwind,materialui,figma&theme=dark)](https://github.com/Alex-Rubanov)
+[![Tech I use](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,pinia,redux,nodejs,express,nest,mongodb,git,scss,bootstrap,tailwind,materialui,figma&theme=dark)](https://github.com/Alex-Rubanov)
 
 <p>
   <a href="https://mail.google.com/mail/u/0/?source=mailto&to=rubanovv.alex@gmail.com&fs=1&tf=cm">
@@ -33,7 +33,7 @@
   </a>
 </p>
 <p>
-  <a href="https://www.linkedin.com/in/alex-rubanov-919803103/">
+  <a href="https://www.linkedin.com/in/alex-rubanov/">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
