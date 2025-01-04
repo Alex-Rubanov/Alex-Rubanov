@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working at  **Nobl9 startup**
 
-- 👯 I’m looking to collaborate on/with  **creative and interesting projects/people**
+- 👯 I’m looking for possibility to collaborate on/with  **creative and interesting projects/people**
 
 - 📫 How to reach me  **rubanovv.alex@gmail.com**
 
