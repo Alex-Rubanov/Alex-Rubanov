@@ -16,7 +16,6 @@
 <br/>
 
 
-- 🔭 I’m currently working at  **Nobl9 startup**
 
 - 👯 I’m looking for possibility to collaborate on/with  **creative and interesting projects/people**
 
